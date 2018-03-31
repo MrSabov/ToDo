@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This ToDo is primarily made for me to raise my skills in Ruby on Rails, and also that I really write down my important things in it, and looking at them, immediately took up the job, because it's one thing in my head to keep everything, but it's quite another thing to look at it in ToDo. ^ - ^
