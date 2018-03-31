@@ -1,0 +1,10 @@
+<div class="tasks priority_<%= tasks.priority %> completed_<%= tasks.completed %>">
+	<p>
+	
+	<span class="title"><%= tasks.title %></span>
+	<%=  %><%= link_to image_tag("edit.png", width: '15px'), edit_task_path(tasks), class: 'action' %>
+	<%= link_to image_tag("trash-icon.png", width: '15px'), tasks, method: :delete, class: 'action' %>
+	<%= link_to image_tag("completed-icon.png", width: '18px'), complete_task_path(tasks), data: {method: :put}, class: 'done action' %>
+
+	</p>
+</div>
